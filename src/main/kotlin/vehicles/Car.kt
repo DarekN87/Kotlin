@@ -1,3 +1,5 @@
+package vehicles
+
 class Car {
 
     /*Attributes - Property
